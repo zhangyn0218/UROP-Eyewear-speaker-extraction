@@ -1,0 +1,5 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+soundfile
+opencv-python
+ffmpeg-python
+numpy
